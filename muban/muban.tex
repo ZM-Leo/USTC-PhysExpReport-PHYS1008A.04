@@ -1,0 +1,50 @@
+\documentclass[a4paper]{extarticle}
+\usepackage{ctex}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{biblatex}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage{float}
+\setCJKmainfont{STSong}[AutoFakeBold,AutoFakeSlant]
+\setCJKsansfont{Microsoft YaHei}
+\setCJKmonofont{KaiTi}
+\setmainfont{Times New Roman}
+\setsansfont{Times New Roman}
+\setmonofont{Times New Roman}
+\linespread{1.5}
+\setlength{\parindent}{0pt}
+\titleformat{\section}{\bfseries\fontsize{14pt}{\baselineskip}\selectfont}{\thesection}{0.5em}{}
+\titleformat{\subsection}{\bfseries\fontsize{10.5pt}{\baselineskip}\selectfont}{\thesubsection}{0.5em}{}
+\titleformat{\subsubsection}{\fontsize{10.5pt}{\baselineskip}\selectfont}{\thesubsubsection}{0.5em}{}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\everymath{\displaystyle}
+\addbibresource{ref1.bib}
+
+\begin{document}
+    \begin{center}
+        \textbf{\fontsize{22pt}{\baselineskip} \selectfont 标题}\\
+        \vspace{2em}
+        \texttt{\fontsize{14pt}{\baselineskip} \selectfont 作者：刘子墨，学号：PB23000233}\\
+    \end{center}
+    \vspace{2em}
+    \hspace{2em}\textsf{\fontsize{9pt}{\baselineskip} \selectfont 摘要：}
+    \texttt{\fontsize{9pt}{\baselineskip} \selectfont 摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容摘要内容}\\
+
+    \hspace{2em}\textsf{\fontsize{9pt}{\baselineskip} \selectfont 关键词：}
+    \texttt{\fontsize{9pt}{\baselineskip} \selectfont 关键词；关键词；关键词}\\
+    
+    \section{引言}
+    \hspace{2em}引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言引言
+    \section{实验内容与设计}
+    \cite{RN1}
+    \section{实验结果和讨论}
+
+    \section{结论}
+
+    \section*{参考文献}
+    \printbibliography[heading=none]
+\end{document}

@@ -1,0 +1,127 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{RN1}{article}{}
+      \name{author}{14}{}{%
+        {{hash=7991a015696b3862155dff66c97e619b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e3d9892b3a6f995e7a97df8f1fbef878}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Guodong},
+           giveni={G\bibinitperiod}}}%
+        {{hash=65775272bb2e3588a5b69adb1613e65d}{%
+           family={Lavery},
+           familyi={L\bibinitperiod},
+           given={Martin\bibnamedelimb P.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3d4f0450a4621742b6376d9d0ee171af}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d66079f39de273fb9b54c0445f53d75d}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Nisar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5087fd86b9c217b274c7ee3bc378ff8c}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Changjing},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d771410eea8f3e297fbab9c1681e23c8}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Yongxiong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=abfde57881da5f7b49f0d775e4a960f5}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yinwen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f079c7fdb806f44f64a6a4cb1b4d3197}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod}}}%
+        {{hash=eed156c687a79d721734200afc38d239}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=965301119804722511b3c0553e7ebb0d}{%
+           family={Molisch},
+           familyi={M\bibinitperiod},
+           given={Andreas\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=cd9e0028268e57226c5217867de242bf}{%
+           family={Tur},
+           familyi={T\bibinitperiod},
+           given={Moshe},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8da49200e7768295a4b3fd5558004289}{%
+           family={Padgett},
+           familyi={P\bibinitperiod},
+           given={Miles\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cfa8c909d62a64521cbc99860cdc4b03}{%
+           family={Willner},
+           familyi={W\bibinitperiod},
+           given={Alan\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b67a623aa9054e6eedaeb2638b8040c2}
+      \strng{fullhash}{e838be808e93ada7f6f722e734c32b79}
+      \strng{bibnamehash}{b67a623aa9054e6eedaeb2638b8040c2}
+      \strng{authorbibnamehash}{b67a623aa9054e6eedaeb2638b8040c2}
+      \strng{authornamehash}{b67a623aa9054e6eedaeb2638b8040c2}
+      \strng{authorfullhash}{e838be808e93ada7f6f722e734c32b79}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1}
+      \field{title}{High-capacity millimetre-wave communications with orbital angular momentum multiplexing}
+      \field{type}{Journal Article}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{4876}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms5876
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/ncomms5876
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/ncomms5876
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
